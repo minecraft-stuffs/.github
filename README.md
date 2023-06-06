@@ -1,1 +1,1 @@
-# .github
+Happy Minecraft Modding!
